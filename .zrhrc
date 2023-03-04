@@ -1,0 +1,15 @@
+alias edit="code ~/.zshrc"
+alias updateAlias="source ~/.zshrc"
+
+
+
+alias gym="cd \"/Users/adamburgess/Desktop/Coding/4 learningStuff/gitGym/GolangGymRecorder\"
+go run main.go
+cd  "
+alias explorer="open ."
+alias code="code ."
+
+#Git commands (Get the rest from work)
+alias log="git log --decorate --graph --oneline"
+alias branch="git branch"
+alias hard="git reset --hard"
